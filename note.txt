@@ -1,0 +1,3 @@
+display: flex; biar sejajar
+nth-of-type(2) mau mengasih style ke h3 yang berada di baris kedua
+ position: fixed; = buat hamburger itu nya nempel diatas (responsive)
